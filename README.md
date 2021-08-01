@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @jschneLearning
-- 👀 I’m interested in ... Android Development, Java, C#, .Net technologies, backend development.
-- 🌱 I’m currently learning ... Computer programming and Android Development.
-- 💞️ I’m looking to collaborate on ... Any project that catches my interest that I feel I can learn and contribute to.
-- 📫 How to reach me ... 
+- 👋 Hi, I’m @jschneLearning, or just Jessica to keep it simple. I am interested in Android Application development, back-end applications, machine learning, Artificial intelligence, and so on. My favorite language is C# with Python coming in as a close second. I know some other languages as well but largely consider myself still a beginner who is learning. 
 
-<!---
-jschneLearning/jschneLearning is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- This account and the repos it is connected to are intended to showcase my projects as I grow and develop as a programmer and software developer. As I am still learning, I request that if anyone does see fit to comment or make suggestions regarding any of my projects to please provide at least a simple explanation of why certain choices and design elements are better than others. 
