@@ -1,3 +1,12 @@
-- 👋 Hi, I’m Jessica Schneiter. I develop Full Stack Web applications with a focus on back-end operations. I particularily focus on ASP.Net Core, Angular, and SQL. Though I've also worked with various other technology stacks (Such as the MERN tech stack) as well as languages such as Python and Java.
+<h1 align="center">Hi there, my name is Jessica Schneiter! </h1>
 
-- This account and the repos it is connected to are intended to showcase my projects while I grow as a software developer. I seek always to learn new things, so I request that if anyone does see fit to comment or make suggestions regarding any of my projects to please provide at least a simple explanation of why certain choices and design elements are better than others. This will help me to better understand the nuances behind each decision so I can make better choices in the future.
+### I am a Junior Web Developer
+
+* I am currently focusing on projects for my portfolio
+* 📚 Currently learning Angular 11+, ASP.Net CORE 5/6 & Typescript
+* 🤔 Also curious about React and Node.js
+* 💻 Focus on the Back-End, but have Full-stack knowledge. 
+* 💬 Message me on Discord: Avidjabber#0613
+* 👩 Pronouns: She/ Her
+
+<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Jschne3&layout=compact&theme=radical" />
