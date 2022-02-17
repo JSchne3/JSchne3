@@ -9,4 +9,4 @@
 * 💬 Message me on Discord: Avidjabber#0613
 * 👩 Pronouns: She/ Her
 
-<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Jschne3&layout=compact&theme=radical" />
+<img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=Jschne3&layout=compact&theme=radical" />
