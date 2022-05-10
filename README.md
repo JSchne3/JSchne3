@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, my name is Jessica Schneiter! </h1>
 
-### I am a Junior Web Developer
+### I am a Junior Software Developer
 
 * I am currently focusing on projects for my portfolio
 * 📚 Currently learning React.js, ASP.Net CORE 5/6 & Typescript
